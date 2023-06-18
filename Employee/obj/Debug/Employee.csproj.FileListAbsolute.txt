@@ -1,0 +1,6 @@
+/home/hasan/RiderProjects/Employee/Employee/bin/Debug/Employee.exe
+/home/hasan/RiderProjects/Employee/Employee/bin/Debug/Employee.pdb
+/home/hasan/RiderProjects/Employee/Employee/obj/Debug/Employee.csproj.AssemblyReference.cache
+/home/hasan/RiderProjects/Employee/Employee/obj/Debug/Employee.csproj.CoreCompileInputs.cache
+/home/hasan/RiderProjects/Employee/Employee/obj/Debug/Employee.exe
+/home/hasan/RiderProjects/Employee/Employee/obj/Debug/Employee.pdb
