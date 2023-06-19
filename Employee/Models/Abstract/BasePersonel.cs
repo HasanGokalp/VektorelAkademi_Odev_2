@@ -17,8 +17,8 @@ namespace Employee.Models.Abstract
         
         public string AdSoyadGetir()
         {
-           string isim = this.Ad;
-           string soyad = this.Soyad;
+           string isim = this.Ad.Trim();
+           string soyad = this.Soyad.Trim();
            string AdSoyad = isim + " " + soyad;
            return AdSoyad;
         }
