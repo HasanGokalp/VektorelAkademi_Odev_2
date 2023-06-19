@@ -15,11 +15,11 @@ namespace Employee.Models.Abstract
             this.Soyad = soyad;
         }
         
-        public string AdSoyadGetir(string isim, string soyad)
+        public string AdSoyadGetir()
         {
-           isim = isim.Trim();
-           soyad = soyad.Trim();
-           string AdSoyad = isim + "" + soyad;
+           string isim = this.Ad;
+           string soyad = this.Soyad;
+           string AdSoyad = isim + " " + soyad;
            return AdSoyad;
         }
 
